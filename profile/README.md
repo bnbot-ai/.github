@@ -10,7 +10,7 @@ BNBot is a suite of tools — Chrome extension, CLI, and AI skill — that helps
 |---------|-------------|
 | **[BNBot Extension](https://chromewebstore.google.com/detail/bnbot-your-ai-growth-agen/haammgigdkckogcgnbkigfleejpaiiln)** | Chrome extension — AI sidebar for Twitter/X, built-in [OpenCLI](https://github.com/jackwener/opencli) bridge for 40+ platforms |
 | **[BNBot CLI](https://github.com/bnbot-ai/bnbot-cli)** | Terminal tool for scraping & publishing tweets (`npm install -g bnbot-cli`) |
-| **[BNBot Skill](https://github.com/jackleeio/bnbot-editor)** | Claude Code skill — discovers trends from 15+ sources, generates human-sounding drafts |
+| **[BNBot Skill](https://github.com/bnbot-ai/bnbot)** | Claude Code skill — discovers trends from 15+ sources, generates human-sounding drafts |
 | **[BNBot MCP Server](https://github.com/jackleeio/bnbot-mcp-server)** | Model Context Protocol server for AI agent integration |
 
 ## How It Works
