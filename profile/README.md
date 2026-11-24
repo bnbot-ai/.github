@@ -1,4 +1,4 @@
-# BNBot (Brand & Bot)
+# BNBOT by Prori
 
 **AI-powered personal brand and social media automation.** Run your personal brand and social accounts from the terminal.
 
@@ -40,6 +40,6 @@ opencli youtube search "AI agents" --limit 5
 
 ## Links
 
-- Website: [bnbot.ai](https://bnbot.ai)
-- Twitter: [@BNBOT_AI](https://x.com/BNBOT_AI)
+- Website: [prori.ai](https://prori.ai)
+- X: [@ProriAI](https://x.com/ProriAI)
 - Chrome Extension: [Chrome Web Store](https://chromewebstore.google.com/detail/bnbot-your-ai-growth-agen/haammgigdkckogcgnbkigfleejpaiiln)
